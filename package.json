@@ -1,0 +1,20 @@
+{
+  "name": "@dolgikh-maks/browserslist-config",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Shared Browserslist configuration",
+  "keywords": [
+    "browserslist",
+    "browserslist-config"
+  ],
+  "license": "MIT",
+  "author": "Maks Dolgikh",
+  "type": "commonjs",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "caniuse-lite": "^1.0.30001791"
+  }
+}
