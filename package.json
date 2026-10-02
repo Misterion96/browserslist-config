@@ -1,6 +1,6 @@
 {
   "name": "@dolgikh-maks/browserslist-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "Shared Browserslist configuration",
   "keywords": [
@@ -15,6 +15,6 @@
     "index.js"
   ],
   "peerDependencies": {
-    "caniuse-lite": "^1.0.30001791"
+    "caniuse-lite": "^1.0.30001814"
   }
 }
